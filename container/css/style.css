@@ -1,0 +1,40 @@
+html, body {
+	width: 100%; 
+}
+
+.fondo2{
+	background-color: #BB9D74; 
+	width: 100%;
+	
+	padding-right:20%;
+	padding-left:20%; 
+
+}
+.ultimo {
+	padding-left:55px;  
+	color:#FFF;
+	font-weight:bolder;
+}
+
+.ultimoa {
+	padding-right:55px;
+	color:#FFF; 
+	font-weight:bolder; 
+
+}
+
+.mero {
+	color: #000;
+}
+.fondo5 {
+	color:#FFF; 
+	position: absolute;
+	bottom: 5%; 
+}
+.ultimo {
+	padding-left:55px;  
+	color:#FFF;
+	font-weight:bolder; 
+}
+
+
